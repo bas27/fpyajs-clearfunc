@@ -43,7 +43,7 @@ npm test
 
 ---
 
-## Чистые функции
+## Чистые функции [![Build status](https://ci.appveyor.com/api/projects/status/qiee68tpcny8scla?svg=true)](https://ci.appveyor.com/project/bas27/fpyajs-clearfunc)
 
 ### Легенда
 
